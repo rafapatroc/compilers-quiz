@@ -44,8 +44,10 @@ __R: Análise e Síntese. (Sub-fases descritas na questão 16) ~Raquel Sales_
 __R: Nada. ~Raquel Sales_
 
 15) Porque há engenheiros que programam em assembly atualmente?
-
-16) Explique cada uma das fases de compilação.
+__R: Existem engenheiros que program em assembly atualmente para melhorar certas partes de seus codigos em C, ou seja, eles identificam qual parte do programa que esta com a performance baixa e nesta parte implementam um trecho de codigo assembly, otimizando assim ainda mais seu codigo. 
+Um outro motivo pelo qual engenheiros program em assembly hoje em dia sao alguns microcontroladores que nao possuem compiladores e requerem um codigo nesta linguagem.
+Ass: Rafael Patrocinio
+16) Explique cada uma das fases de compilação. 
 __R: Análise Sintática: 
  Verifica a estrutura gramatical do programa especificadas por gramática livre do contexto (GLC);
  Verifica se a sentença pertence a linguagem;
